@@ -3,7 +3,9 @@ To start run the following commands
 ### `npm install`
 ### `npm start`
 
-#Notes
+Notes
+--------
+
 Aimed to fulfill the main steps of the challenge under time limits.
 
 Built with create-react-app to avoid using time on setting-up, although for all new projects it did still take a little bit just to figure out dependencies.
