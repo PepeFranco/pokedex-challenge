@@ -5,7 +5,7 @@ import Home from "./Home";
 import Poke from "./Poke";
 import Paper from "@material-ui/core/Paper";
 
-const styles = { root: { margin: "10px" } };
+const styles = { root: { margin: "15px" } };
 
 const App = ({ classes }) => (
   <Router>
